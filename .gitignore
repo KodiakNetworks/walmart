@@ -1,0 +1,6 @@
+.classpath
+.projects
+newone.json
+/node_modules/
+*.class
+
